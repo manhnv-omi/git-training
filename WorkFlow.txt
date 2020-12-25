@@ -1,0 +1,35 @@
+I. Task mới
+1. Tiếp nhận YÊU CẦU task
+2. Đọc lướt qua 1 lượt (tối đa là 1h)
+3. Gửi lại TL/PM việc estimate việc mình cần bao lâu để đọc spec và ESTIMATE viết file điều tra
+4. Bắt đầu viết file điều tra, điền start-date, due-date, chuyển trạng thái task trên backlog,
+4.1 Sau khi hoàn thiện file điều tra cần SELF_REVIEW trước khi báo người khác review (tester làm cùng)
+4.2 Làm checklist sau khi SELF_REVIEW
+4.3 Báo Tester review file điều tra
+4.4 Báo JQC dịch file điều tra >>> cần nắm được thông tin dịch đến bao giờ xong.
+Nếu JQC báo thời điểm dịch xong (đã bao gồm việc review JP bản dịch) quá thời hạn DEADLINE nộp file điều tra của mình
+thì cần thông báo ngay để báo khách.
+
+NOTE: Trong quá trình làm file điều tra mà có vấn đề bất thường có khả năng ảnh hưởng đến DEADLINE nộp file điều tra
+thì cần thông báo TL/PM ngay lập tức 
+Sau đó cần điền lý do, và ngày DEADLINE mới để thông báo khách xin lùi
+5. Khi TL/PM gửi file điều tra khách thì cần điền ngày để có thể bàn giao task được (RELEASE) cùng với tester
+
+II. Khách hàng feedback
+1. Nếu khách hàng có Q&A thì cần trả lời muộn nhất sau 02 ngày làm việc tính từ thời điểm nhận feedback
+2. Nếu là feedback lỗi nhỏ thì cần sửa trong ngày để RELEASE trả khách
+3. Nếu là CR thì cần làm như lúc estimate task mới ở phần I, và báo lại khách DEADLINE để release CR
+
+
+III. Báo cáo công việc (bắt buộc)
+1. KHÔNG được phép để task chậm DEADLINE mà không báo cáo trước đó
+2. KHÔNG được Q&A tại thời điểm RELEASE (chứng tỏ điều tra task lởm, không đạt yêu cầu, khách hàng đánh giá kém...)
+3. Trong quá trình làm (chưa vượt 2/3 thời gian mà mình estimate) phát hiện bất thường hoặc có Q&A thì cần thông báo TL/PM 
+để báo khách hàng.
+Nếu có khó khăn dẫn tới việc không thể bàn giao task đúng hạn cần điền lý do, và ngày DEADLINE mới để thông báo khách xin lùi
+
+IV. DONE
+Các khái niệm xong được tính là DONE/ XONG khi công việc hoặc file đủ các điều kiện để PM/BrSE gửi luôn cho khách được
+
+
+
